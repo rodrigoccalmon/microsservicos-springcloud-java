@@ -1,2 +1,0 @@
-martin fowler referencia em engenharia de software - recomenda a leitura do artigo de microsserviços. tem tradução do pedro mendes
-pedromendes.com.br/2016/01/02/microsservicos
